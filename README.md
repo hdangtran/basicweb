@@ -1,2 +1,2 @@
-# basicweb.github.io
+# basicweb
 the bloody basic website 
